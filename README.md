@@ -1,2 +1,2 @@
-# Ol-Usu-rio
+# OlaUsuario
 Resolução do exercicio OláUsuario
